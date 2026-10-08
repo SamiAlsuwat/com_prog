@@ -29,7 +29,7 @@ const LoginPage = ({ onLogin, onNavigate }) => {
             <span className="text-white font-black text-xl">C++</span>
           </div>
           <h1 className="text-2xl font-bold text-white">Computer Programming</h1>
-          <p className="text-cyan-300/70 font-arabic">برمجة الحاسب (٢)</p>
+          <p className="text-cyan-300/70 font-arabic">برمجة الحاسب</p>
           <p className="text-slate-400 text-sm mt-2">Taif University</p>
         </div>
 

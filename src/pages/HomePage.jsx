@@ -27,7 +27,7 @@ const HomePage = ({ user, onNavigate, onLogout }) => {
               </div>
               <div>
                 <h1 className="text-white font-bold">Computer Programming</h1>
-                <p className="text-cyan-300/70 text-xs font-arabic">برمجة الحاسب (٢)</p>
+                <p className="text-cyan-300/70 text-xs font-arabic">برمجة الحاسب</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
