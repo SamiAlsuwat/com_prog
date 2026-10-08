@@ -1,4 +1,4 @@
-// Course content for Computer Programming 2.
+// Course content for Computer Programming.
 // Week 0 is the setup week; weeks 1–9 follow the official course content table.
 // Note: code samples live inside JS template literals, so avoid "\n" / "\0" in them
 // (use endl, or escape the backslash as "\\0").

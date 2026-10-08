@@ -28,7 +28,7 @@ const LoginPage = ({ onLogin, onNavigate }) => {
           <div className="w-16 h-16 bg-cyan-600 rounded-xl flex items-center justify-center mx-auto mb-4">
             <span className="text-white font-black text-xl">C++</span>
           </div>
-          <h1 className="text-2xl font-bold text-white">Computer Programming 2</h1>
+          <h1 className="text-2xl font-bold text-white">Computer Programming</h1>
           <p className="text-cyan-300/70 font-arabic">برمجة الحاسب (٢)</p>
           <p className="text-slate-400 text-sm mt-2">Taif University</p>
         </div>
